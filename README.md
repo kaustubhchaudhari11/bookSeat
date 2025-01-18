@@ -43,9 +43,18 @@ User Authentication Sign Up: POST /api/auth/signup Log In: POST /api/auth/login
 
 **Project Structure
 **Backend:
-Built with Node.js to handle user authentication, seat allocation, and database management.
+**Built with Node.js to handle user authentication, seat allocation, and database management.
 Uses PostgreSQL for persistent data storage.
 Frontend:
 Built with Next.js for a dynamic and component-based architecture.
 Provides a seamless user experience for booking and managing seats.
+**
+
+
+
+
+Technologies Used
+1) Node.js: Backend logic and API handling.
+2) Next.js: Frontend with dynamic routing and modular components.
+3) PostgreSQL: Database for storing user and seat booking data.
 
