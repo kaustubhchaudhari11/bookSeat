@@ -15,8 +15,9 @@ Setup Instructions
 
 Prerequisites Node.js installed (v16 or higher). PostgreSQL installed and running.
 
-Clone the Repository git clone https://github.com/kaustubhchaudahri11/sde1_assignment.git cd sde1_assignment
+Clone the Repository git clone https://github.com/kaustubhchaudahri11/bookSeat.git
 
+cd sde1_assignment
 3 Install dependencies: npm install
 cd backend
 npm install
